@@ -19,7 +19,7 @@
 
 * 분류
   * [KNN(k-Neares-Neighbors)](./p308.py)
-  * SVM (Support Vector Machine)
-  * DT (Decision Tree)
+  * [SVM (Support Vector Machine)](./p319.py)
+  * [DT (Decision Tree)](./p323.py)
 * 앙상블
 
