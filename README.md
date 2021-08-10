@@ -18,8 +18,8 @@
   * [다중 회귀분석](./p304.py)
 
 * 분류
-  * KNN
-  * SVM
-  * DT
+  * [KNN(k-Neares-Neighbors)](./p308.py)
+  * SVM (Support Vector Machine)
+  * DT (Decision Tree)
 * 앙상블
 
