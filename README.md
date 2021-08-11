@@ -21,5 +21,9 @@
   * [KNN(k-Neares-Neighbors)](./p308.py)
   * [SVM (Support Vector Machine)](./p319.py)
   * [DT (Decision Tree)](./p323.py)
-* 앙상블
+  * [앙상블](./p330.py)
+    * 디시전 트리, SVM, 앙상블 모델 비교
+    * HVC  : voting 모형 성능 평가 - 평가지표 계산
+    * RFC  : 배깅 (random forest) 모형 성능 평가 - 평가지표 계산
+    * XGC : Boosting 모형 성능 평가 - 평가지표 계산
 
