@@ -27,3 +27,7 @@
     * RFC  : 배깅 (random forest) 모형 성능 평가 - 평가지표 계산
     * XGC : Boosting 모형 성능 평가 - 평가지표 계산
 
+## boston 예시
+
+> [관련 노트북](./boston.ipynb)
+
